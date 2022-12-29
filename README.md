@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2ackTantai I'm Taiwanese
-- 👀 I’m interested in gaming and coding(mostly coding LabVIEW)
+- 👀 I’m interested in coding,focusing on robotics and computer vision(mostly coding LabVIEW)
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me discord zach0923#4008
 
